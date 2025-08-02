@@ -7,9 +7,7 @@ import "../styles/animations.css"
 const inter = Inter({ subsets: ["latin"] })
 
 export const metadata: Metadata = {
-  title: "Skip-w-Ocha - Voice-Powered YouTube Ad Blocker",
-  description: "The first Chrome extension that lets you skip YouTube ads with your voice. Made with love in Kerala!",
-    generator: 'v0.dev'
+  title: "Mindaathe Irikku"
 }
 
 export default function RootLayout({
